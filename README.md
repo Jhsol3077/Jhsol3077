@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=black)
 <!--
 **Jhsol3077/Jhsol3077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
