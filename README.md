@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?section=header&type=Wave&color=black)
 <a><h2>:feet:Hi there:grey_exclamation:</h2></a>
-<h3>💬 Hansol Jung</h3>
+<h2>💬 Hansol Jung</h2>
 <h4>:dizzy:My major is Computer Science</h4>
 <h4>:baby_chick:I enjoy learning new skills</h4>
 <h4>📚Tech STACKS</h4>
