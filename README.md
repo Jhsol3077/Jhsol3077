@@ -21,7 +21,7 @@
 </p>
 <p>
   <a href="https://solved.ac/edwin3077/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=edwin3077" alt="Solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=edwin3077" alt="Solved.ac Profile">
   </a>
 </p>
 
