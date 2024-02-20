@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=Wave&color=black)
 
 <h2>:feet: Hi there! :grey_exclamation:</h2>
-
-<p>
-  <a href="https://solved.ac/edwin3077/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=edwin3077" alt="Solved.ac Profile">
-  </a>
-</p>
-
 <p>
   <strong>💬 Hansol Jung</strong><br>
   <em>:dizzy: My major is Computer Science</em><br>
@@ -26,8 +19,13 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 </p>
+<p>
+  <a href="https://solved.ac/edwin3077/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=edwin3077" alt="Solved.ac Profile">
+  </a>
+</p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Wave&color=black)
+<!--![footer](https://capsule-render.vercel.app/api?section=footer&type=Wave&color=black)-->
 
 
 <!--
